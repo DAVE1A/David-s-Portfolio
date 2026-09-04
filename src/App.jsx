@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from "react";
 import { Github, Linkedin, Mail, Phone, ArrowUpRight, Camera, Image as ImageIcon } from "lucide-react";
-import profilePhoto from "./assets/PROFILEIMAGE.jpg";
+import profilePhoto from "./assets/PROFILEIMAGE.png";
 import profilePhotoag from "./assets/agri.png";
 import profilePhotore from "./assets/rehoboth.png";
 import "./App.css";
